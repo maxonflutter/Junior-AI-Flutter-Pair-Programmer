@@ -27,6 +27,7 @@ The BLoC Generator helps you to prepare your Flutter BLoC classes with ease. Exp
 
 A few examples of the prompt and the output are in the [bloc_generator folder](bloc_generator). The example code is not edited, it is shown as it is returned by junior, your Flutter AI pair programmer.
 
+
 ---
 
 ![model-generator](images/model-generator.png)
