@@ -13,12 +13,12 @@
 
 <p align="left">
   <a href="https://junior.atomsbox.com">
-    <img src="../images/junior-logo-with-bg-2.png" alt="junior by atomsbox"/>
+    <img src="../../images/junior-logo-with-bg-2.png" alt="junior by atomsbox"/>
   </a>
 </p>
 
 
-![tasks](../images/user-feed-for-dating-app-tasks.png)
+![tasks](../../images/user-feed-for-dating-app-tasks.png)
 
 
 ### Initial List of Tasks from the Model:
