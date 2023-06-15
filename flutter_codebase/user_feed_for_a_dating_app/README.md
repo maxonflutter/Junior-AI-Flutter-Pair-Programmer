@@ -1,4 +1,10 @@
-# Example for the Flutter Codebase tool
+# Example for the Flutter Codebase: User Feed for a Dating App
+<p align="left">
+  <a href="https://junior.atomsbox.com">
+    <img src="../../images/junior-logo-with-bg-2.png" alt="junior by atomsbox"/>
+  </a>
+</p>
+
 **Learn more at [junior.atomsbox.com](https://junior.atomsbox.com)!**
 
 ---
@@ -10,12 +16,6 @@
 - Project description: Create the user feed feature for a dating app with Flutter. The current user should be able to swipe left and right the other users' profiles. Create only one screen and starts by developing the user profile model. 
 - Number of tasks: 16
 - Model: Advanced Model 
-
-<p align="left">
-  <a href="https://junior.atomsbox.com">
-    <img src="../../images/junior-logo-with-bg-2.png" alt="junior by atomsbox"/>
-  </a>
-</p>
 
 
 ![tasks](../../images/user-feed-for-dating-app-tasks.png)
