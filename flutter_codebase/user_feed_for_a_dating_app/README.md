@@ -17,7 +17,7 @@
 - Number of tasks: 16
 - Model: Advanced Model 
 
-**Full codebase (as created by the model):** [dating_app](flutter_codebase/user_feed_for_a_dating_app/dating_app)
+**Full codebase (as created by the model):** [dating_app](https://github.com/maxonflutter/junior-AI-Generated-Flutter-Code/tree/main/flutter_codebase/user_feed_for_a_dating_app/dating_app)
 
 ![tasks](../../images/user-feed-for-dating-app-tasks.png)
 
