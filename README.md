@@ -38,7 +38,7 @@ A few examples of the prompt and the output are in the [model_generator folder](
 
 ---
 
-![flutter-agi](images/flutter-agi.png)
-## Flutter AI Full-Codebase
+![flutter-codebase](images/flutter-codebase.png)
+## Flutter Codebase
 The Flutter AI Codebase (inspired to BabyAGI and smol-ai/developer) receives your input and create a Flutter codebase as an output. For example, you can ask the generator to "Create the shopping cart of an ecommerce app" or to "Connect a workout tracking app with database XYZ", the model will break down your request into actionable tasks and it will generate the code for you into one or multiple files. 
 
