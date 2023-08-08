@@ -1,4 +1,4 @@
-# Generate Flutter code with junior
+# Junior AI: Build Apps Faster
 
 <p align="left">
   <a href="https://junior.atomsbox.com">
@@ -26,9 +26,9 @@ In order to use Junior AI in your Flutter projects, the first step is to establi
 
 3. **Select Your Repository:** A list showcasing all your repositories will pop up. From this list, cherry-pick the repository or repositories you allow Junior AI to work and create code for.
 
-4. **Proceed to Junior's Home Base:** After selecting the repository, you'll be redirected to [junior.atomsbox.com](https://junior.atomsbox.com). If you haven't already, you will need to create an account here.
+4. **Go to [junior.atomsbox.com](https://junior.atomsbox.com):** After selecting the repository, you'll be redirected to [junior.atomsbox.com](https://junior.atomsbox.com). If you haven't already, you will need to create an account here.
 
-5. **Link Your GitHub:** Once logged in or signed up, you'll be prompted to register your GitHub account. It's a simple process — just input your GitHub username. This step forms the bridge ensuring Junior AI recognizes and interacts with your chosen repositories.
+5. **Link Your GitHub:** Once logged in or signed up, you'll be prompted to register your GitHub account. It's a simple process — just input your GitHub username. This step ensures that Junior AI recognizes and interacts with your chosen repositories.
 
 🎉 **Voila!** Once you've navigated these steps, Junior AI is ready to contribute to your GitHub repository!
 
