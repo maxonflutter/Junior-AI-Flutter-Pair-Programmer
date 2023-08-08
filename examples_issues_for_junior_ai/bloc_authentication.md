@@ -7,3 +7,8 @@ In order to ensure a secure user experience in our Flutter app, we require an Au
 2. User Sign In: The BLoC should facilitate user login by accepting user credentials, verifying them with the backend, and managing the user session.
 3. User Sign Out: Users should be able to end their sessions securely. The BLoC should handle sign-out requests and properly terminate the user session.
 3. Handle Errors: Implement comprehensive error handling to catch and address potential issues during the authentication process.
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)

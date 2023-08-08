@@ -12,3 +12,9 @@ Main objectives:
    - GET /users: Retrieve all registered users.
    - GET /users/{id}: Fetch a specific user's details.
 3. Error Handling: Implement robust error handling to manage potential problems during API
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)
+

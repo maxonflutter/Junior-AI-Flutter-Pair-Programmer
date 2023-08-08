@@ -8,3 +8,8 @@ The product model should encapsulate:
 3. Color Options: Products might come in different colors; this should be represented.
 4. Description: A brief description that provides more information about the product.
 
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)

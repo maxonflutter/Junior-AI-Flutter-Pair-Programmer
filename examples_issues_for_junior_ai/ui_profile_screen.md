@@ -8,3 +8,8 @@ We need to design a new Profile Screen UI to provide users with a visually appea
 3. User Details: Display user details like name and email in an easily readable font size. Incorporate intuitive icons next to email and other details.
 4. Edit Mode: On entering edit mode, fields should change to editable text boxes, with visible Save and Cancel buttons.
 5. Feedback: On successful edits, visual feedback (like a brief color change or animation) should notify the user.
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)

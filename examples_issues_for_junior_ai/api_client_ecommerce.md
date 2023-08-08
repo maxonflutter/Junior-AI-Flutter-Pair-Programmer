@@ -11,3 +11,8 @@ Main objectives:
    - PUT /products/{id}: Update details of a specific product.
    - DELETE /products/{id}: Remove a specific product.
 3. Error Handling: Implement efficient error handling to manage potential issues during API communication.
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)

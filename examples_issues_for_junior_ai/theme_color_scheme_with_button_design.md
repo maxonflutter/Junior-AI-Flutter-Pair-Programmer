@@ -23,3 +23,8 @@ Sporting a neon green hue, this button features crisp white text. It has a subtl
 ### AppBar:  
 The AppBar shines in a deeper shade of pink, paired with a pure white title. Its icons pop in a neon green, and a slight shadow graces its base, adding a touch of depth.
 
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)

@@ -33,3 +33,8 @@ In order to ensure consistency and visual appeal across our app, we need to esta
 4. Background Color: A neutral hue that complements the primary and secondary colors and offers a clean backdrop for content.
 
 
+
+
+
+--- 
+Check the [output created by Junior AI](https://github.com/maxonflutter/flutter_app_with_junior_ai)
