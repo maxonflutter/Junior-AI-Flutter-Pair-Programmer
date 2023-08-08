@@ -1,34 +1,10 @@
 ---
-name: "l"
-title: "Junior AI: Create a Text Theme and Color Scheme for App"
-description: """
-In order to ensure consistency and visual appeal across our app, we need to establish a Text Theme and Color Scheme.
-## Text Theme: Typography Guidelines 
-1. Font Family: A modern sans-serif font that is legible at all sizes.
-2. Display:
-   - Font size: Large and dominant for page titles.
-   - Weight: Bold for emphasis.
-   - Letter Spacing: Slightly spaced for readability.
-3. Headline:
-   - Font size: Moderately large for subheadings.
-   - Weight: Slightly bolder than regular text, but less than Display.
-   - Letter Spacing: Normal spacing.
-4. Body:
-   - Font size: Comfortable reading size for extended content.
-   - Weight: Regular for standard content.
-   - Letter Spacing: Regular spacing for ease of reading.
-5. Caption:
-   - Font size: Smaller than body text for auxiliary information.
-   - Weight: Lighter than regular content.
-   - Letter Spacing: Slightly increased spacing to offset smaller size.
-
-## Color Scheme
-1. Primary Color: A vibrant shade that resonates with the brand identity.
-   - Lighter variant: A muted version of the primary color for backgrounds or hover effects.
-   - Darker variant: A deeper shade of the primary color for emphasis or depth.
-2. Secondary Color: A contrasting color to the primary which complements it without overshadowing.
-   - Lighter variant: A paler shade of the secondary color.
-   - Darker variant: A richer tone of the secondary color for variation.
-3. Error Color: A color that clearly signifies errors, preferably a shade of red.
-4. Background Color: A neutral hue that complements the primary and secondary colors and offers a clean backdrop for content."""
+name: BLoC Generator
+about: Create three files to implement a BLoC with flutter_bloc (events, states and blocs)
+title: "Junior AI: "
+labels: juniorAI
 ---
+Use the BLoC Generator
+
+**BLoC Description**
+[Replace with: A clear and concise description of the BLoC to generate. You might specify which data to store in the state, which events are available, etc.]
