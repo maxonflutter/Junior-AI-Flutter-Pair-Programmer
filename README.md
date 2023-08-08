@@ -34,7 +34,7 @@ To use Junior AI in your Flutter projects, the first step is to establish a conn
 
 
 
-![step-1-onboarding](images/bloc-generator.png)
+![step-1-onboarding](images/install-junior.png)
 
 
 
@@ -53,7 +53,7 @@ To get started using Junior AI, you'll have to create an issue in the GitHub rep
 In essence, clarity leads to precision. The more detailed you are, the better Junior AI can assist you.
 
 
-![step-2-onboarding](images/bloc-generator.png)
+![step-2-onboarding](images/create-issue.png)
 
 ## Step 3: Let Junior AI Code for You
 After creating the issue, Junior AI gets to work. It carefully examines the task details and starts crafting a solution suited to your Flutter codebase.
@@ -63,7 +63,7 @@ After creating the issue, Junior AI gets to work. It carefully examines the task
 2. **Behind the Scenes with OpenAI**: Junior's skill isn't just its own doing. It uses the OpenAI API to understand your input and generate the right code. This method is tailored using Flutter-focused guidelines and takes insights from a curated Flutter code library. This collaboration ensures the final output is both precise and top-notch.
 
 
-![step-3-onboarding](images/bloc-generator.png)
+![step-3-onboarding](images/junior-start-message.png)
 
 
 ## Step 4: Check Out Junior AI's Pull Request
@@ -75,11 +75,12 @@ Once Junior AI wraps up its coding, it presents the results as a Pull Request (P
 3. **Review the Adjustments:** Dive into the PR to see the changes made to the Flutter code. Carefully evaluate each modification to ensure it matches your project's standards and your vision.
 4. **Merge if Satisfied:** If the new code fits the bill, go ahead and merge the PR, incorporating Junior's work into your main codebase.
 
+
+![step-4-onboarding](images/junior-pr.png)
+
 ### Key Points:
 
 - **Junior's Reach:** Understand that Junior might not fully grasp every aspect of your repository's code. This could mean a few tweaks on your part after accepting a PR from Junior.
   
 - **Junior's Role:** Junior AI is great at churning out initial code drafts and taking care of repetitive tasks, but it isn't a developer replacement. Consider Junior a trusty sidekick, there to streamline your process, but always go through PRs attentively to ensure the final code aligns with your project goals.
-
-![step-4-onboarding](images/bloc-generator.png)
 
