@@ -1,4 +1,4 @@
-# Generate Flutter code with junior
+# [OLD VERSION / DEPRECATED] Generate Flutter code with junior
 
 <p align="left">
   <a href="https://junior.atomsbox.com">
