@@ -17,7 +17,7 @@ junior is your Flutter pair-programmer. It integrates with GitHub and streamline
 Welcome to Junior AI! Here's a step-by-step guide to help you get started.
 
 ### Step 1: Connect Junior AI to Your GitHub Repository
-In order to use Junior AI in your Flutter projects, the first step is to establish a connection between Junior AI and your GitHub repository. This connection enables Junior AI with the permissions it requires to edit and contribute to your project codebase.
+To use Junior AI in your Flutter projects, the first step is to establish a connection between Junior AI and your GitHub repository. This connection enables Junior AI with the permissions it requires to edit and contribute to your project codebase.
 
 **How to Connect:**
 1. **Start on GitHub:** Log in into your GitHub account, and head over to the **Junior AI GitHub App page**. 
