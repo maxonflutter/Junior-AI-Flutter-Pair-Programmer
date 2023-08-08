@@ -1,7 +1,7 @@
 ## Issue Title
-"Junior AI: Create a Text Theme and Color Scheme for App"
+Junior AI: Create a Text Theme and Color Scheme for App
 
-## Issue Description**
+## Issue Description
 In order to ensure consistency and visual appeal across our app, we need to establish a Text Theme and Color Scheme.
 #### Text Theme: Typography Guidelines 
 1. Font Family: A modern sans-serif font that is legible at all sizes.
