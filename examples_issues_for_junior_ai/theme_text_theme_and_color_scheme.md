@@ -1,6 +1,5 @@
----
-title: "Junior AI: Create a Text Theme and Color Scheme for App"
-description: """
+**title**: "Junior AI: Create a Text Theme and Color Scheme for App"
+**description**: """
 In order to ensure consistency and visual appeal across our app, we need to establish a Text Theme and Color Scheme.
 ## Text Theme: Typography Guidelines 
 1. Font Family: A modern sans-serif font that is legible at all sizes.
@@ -30,4 +29,3 @@ In order to ensure consistency and visual appeal across our app, we need to esta
    - Darker variant: A richer tone of the secondary color for variation.
 3. Error Color: A color that clearly signifies errors, preferably a shade of red.
 4. Background Color: A neutral hue that complements the primary and secondary colors and offers a clean backdrop for content."""
----
