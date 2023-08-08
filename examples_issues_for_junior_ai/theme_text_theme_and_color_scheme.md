@@ -1,8 +1,5 @@
----
-name: BLoC Generator
-about: Create three files to implement a BLoC with flutter_bloc (events, states and blocs)
-title: "Junior AI: "
-description: """
+**title**: "Junior AI: Create a Text Theme and Color Scheme for App"
+**description**: `"""  
 In order to ensure consistency and visual appeal across our app, we need to establish a Text Theme and Color Scheme.
 ## Text Theme: Typography Guidelines 
 1. Font Family: A modern sans-serif font that is legible at all sizes.
@@ -31,22 +28,5 @@ In order to ensure consistency and visual appeal across our app, we need to esta
    - Lighter variant: A paler shade of the secondary color.
    - Darker variant: A richer tone of the secondary color for variation.
 3. Error Color: A color that clearly signifies errors, preferably a shade of red.
-4. Background Color: A neutral hue that complements the primary and secondary colors and offers a clean backdrop for content.
-"""
-labels: juniorAI
+4. Background Color: A neutral hue that complements the primary and secondary colors and offers a clean backdrop for content."""`
 ---
-Use the BLoC Generator
-
-**BLoC Description**
-[Replace with: A clear and concise description of the BLoC to generate. You might specify which data to store in the state, which events are available, etc.]
-
-
----
-name: "l"
-title: "Junior AI: Create a Text Theme and Color Scheme for App"
-description: """
-"""
----
-
-
-...
